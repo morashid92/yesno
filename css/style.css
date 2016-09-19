@@ -1,3 +1,55 @@
 #nav{
 	display: inline;
 }
+button, h1, h2, h3, h4, h5, p, ul, li{
+	font-family: 'Poiret One', cursive;
+}
+
+button{
+	height: 30px;
+    width: 60px;
+}
+img {
+    height: 300px;
+    width: 500px;
+}
+body{
+	text-align: center;
+}
+article{
+	height: 500px;
+}
+section{
+	height: 500px;
+}
+
+#super-mario{
+float: left;
+
+}
+#street-fighter{
+float: left;
+
+}
+#sec-one  {
+	background: mintcream;
+}
+
+#sec-two  {
+	background: mistyrose;
+
+}
+
+#sec-two img {
+    height: 200px;
+    width: 200px;
+    padding-left: 65px;
+}
+
+#sec-three {
+	background: lightgoldenrodyellow;
+}
+
+#info-link{
+	color: blue;
+}
