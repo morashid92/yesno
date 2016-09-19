@@ -1,6 +1,4 @@
-#nav{
-	display: inline;
-}
+
 button, h1, h2, h3, h4, h5, p, ul, li{
 	font-family: 'Poiret One', cursive;
 }
@@ -23,11 +21,28 @@ section{
 	height: 500px;
 }
 
+#nav{
+	display: inline;
+}
+
 #super-mario{
 float: left;
 
 }
 #street-fighter{
+float: left;
+
+}
+#turtles{
+float: left;
+
+}
+#sonic{
+float: left;
+
+}
+
+#metroid{
 float: left;
 
 }
